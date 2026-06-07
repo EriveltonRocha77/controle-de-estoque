@@ -1,6 +1,6 @@
 📦 Controle de Estoque Inteligente
 
-Seja muito bem-vindo ao **Controle de Estoque Inteligente! 🚀
+Seja muito bem-vindo ao Controle de Estoque Inteligente! 🚀
 
 Este é um sistema desenvolvido para tornar o gerenciamento de produtos em estoque algo simples, visualmente agradável e altamente eficiente. Projetado com uma estética moderna *Dark Glassmorphism* (efeito de vidro fosco em fundo escuro) e micro-animações fluidas, o sistema oferece uma experiência de uso premium, unindo um backend robusto em C# a uma interface web super responsiva.
 
