@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "controle-de-estoque",
+  "compatibility_date": "2026-06-08",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "ControleEstoque"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
